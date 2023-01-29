@@ -1,42 +1,42 @@
 [
   {
     "video_id": 0,
-    "videoDownloadUrl": "https://amazingmachine.github.io/s/d/tv1.json",
+    "videoDownloadUrl": "https://amazingmachine.github.io/tv_tik/tv1.json",
     "coverImgUrl": "???"
   },
   {
     "video_id": 1,
-    "videoDownloadUrl": "https://amazingmachine.github.io/s/d/tv1.json",
-    "coverImgUrl": "https://amazingmachine.github.io/s/d/1.jpg"
+    "videoDownloadUrl": "https://amazingmachine.github.io/tv_tik/tv1.json",
+    "coverImgUrl": "https://amazingmachine.github.io/tv_tik/1.jpg"
   },
   {
     "video_id": 2,
-    "videoDownloadUrl": "https://amazingmachine.github.io/s/d/tv1.json",
-    "coverImgUrl": "https://amazingmachine.github.io/s/d/2.jpg"
+    "videoDownloadUrl": "https://amazingmachine.github.io/tv_tik/tv1.json",
+    "coverImgUrl": "https://amazingmachine.github.io/tv_tik/2.jpg"
   },
   {
     "video_id": 3,
-    "videoDownloadUrl": "https://amazingmachine.github.io/s/d/tv1.json",
-    "coverImgUrl": "https://amazingmachine.github.io/s/d/3.jpg"
+    "videoDownloadUrl": "https://amazingmachine.github.io/tv_tik/tv1.json",
+    "coverImgUrl": "https://amazingmachine.github.io/tv_tik/3.jpg"
   },
   {
     "video_id": 4,
-    "videoDownloadUrl": "https://amazingmachine.github.io/s/d/tv1.json",    
-    "coverImgUrl": "https://amazingmachine.github.io/s/d/4.jpg"
+    "videoDownloadUrl": "https://amazingmachine.github.io/tv_tik/tv1.json",    
+    "coverImgUrl": "https://amazingmachine.github.io/tv_tik/4.jpg"
   },
   {
     "video_id": 5,
-    "videoDownloadUrl": "https://amazingmachine.github.io/s/d/tv1.json",    
-    "coverImgUrl": "https://amazingmachine.github.io/s/d/5.jpg"
+    "videoDownloadUrl": "https://amazingmachine.github.io/tv_tik/tv1.json",    
+    "coverImgUrl": "https://amazingmachine.github.io/tv_tik/5.jpg"
   },
   {
     "video_id": 6,
-    "videoDownloadUrl": "https://amazingmachine.github.io/s/d/tv1.json",
-    "coverImgUrl": "https://amazingmachine.github.io/s/d/6.jpg"
+    "videoDownloadUrl": "https://amazingmachine.github.io/tv_tik/tv1.json",
+    "coverImgUrl": "https://amazingmachine.github.io/tv_tik/6.jpg"
   },
   {
     "video_id": 7,
-    "videoDownloadUrl": "https://amazingmachine.github.io/s/d/tv1.json",    
-    "coverImgUrl": "https://amazingmachine.github.io/s/d/7.jpg"
+    "videoDownloadUrl": "https://amazingmachine.github.io/tv_tik/tv1.json",    
+    "coverImgUrl": "https://amazingmachine.github.io/tv_tik/7.jpg"
   }
 ]
