@@ -7,16 +7,21 @@
   {
     "video_id": 1,
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/queue1.json",
-    "coverImgUrl": "https://amazingmachine.github.io/nina/1.jpg"
+    "coverImgUrl": "???"
   },
   {
     "video_id": 2,
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/queue2.json",
-    "coverImgUrl": "https://amazingmachine.github.io/nina/2.jpg"
+    "coverImgUrl": "???"
   },
   {
     "video_id": 3,
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/queue3.json",
-    "coverImgUrl": "https://amazingmachine.github.io/nina/3.jpg"
+    "coverImgUrl": "???"
+  },
+  {
+    "video_id": 4,
+    "videoDownloadUrl": "https://amazingmachine.github.io/nina/queue4.json",
+    "coverImgUrl": "???"
   }
 ]
