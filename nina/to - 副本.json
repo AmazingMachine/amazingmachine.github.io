@@ -2,31 +2,31 @@
   {
     "video_id": 0,
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/s0.json",
-    "coverImgUrl": ""
+    "coverImgUrl": "???"
   },
   {
     "video_id": 1,
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/queue1.json",
-    "coverImgUrl": ""
+    "coverImgUrl": "https://amazingmachine.github.io/nina/q1/f55401dd-894b-4dd8-829b-451d4556e88b.jpg"
   },
   {
     "video_id": 2,
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/queue2.json",
-    "coverImgUrl": ""
+    "coverImgUrl": "https://amazingmachine.github.io/nina/q1/f55401dd-894b-4dd8-829b-451d4556e88b.jpg"
   },
   {
     "video_id": 3,
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/queue3.json",
-    "coverImgUrl": ""
+    "coverImgUrl": "https://amazingmachine.github.io/nina/q1/f55401dd-894b-4dd8-829b-451d4556e88b.jpg"
   },
   {
     "video_id": 4,
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/queue4.json",
-    "coverImgUrl": ""
+    "coverImgUrl": "https://amazingmachine.github.io/nina/q1/f55401dd-894b-4dd8-829b-451d4556e88b.jpg"
   },
   {
     "video_id": 5,
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/queue0.json",
-    "coverImgUrl": ""
+    "coverImgUrl": "https://amazingmachine.github.io/nina/q1/f55401dd-894b-4dd8-829b-451d4556e88b.jpg"
   }
 ]
