@@ -1,6 +1,11 @@
 [
   {
     "video_id": 6,
+    "videoDownloadUrl": "https://amazingmachine.github.io/nina/queue_720_0.json",
+    "coverImgUrl": ""
+  },
+  {
+    "video_id": 6,
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/s0.json",
     "coverImgUrl": ""
   },
