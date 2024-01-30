@@ -1,87 +1,27 @@
 [
   {
-    "video_id": "6e88b771-0988-42ed-8c12-5b9fd70939b7",
+    "video_id": "95629e33-812a-4e51-a660-4496939f2b3b_with_audio_hevc",
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_1.json",
     "coverImgUrl": ""
   },
   {
-    "video_id": "3257338081502090973",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_10.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "422a6ea5-45b7-4932-a54e-e7b851851288",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_11.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "70b1fdeb-4f9c-4851-a844-87ec81dcfb91",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_12.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "3259701280266012562",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_13.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "3253769762147127463",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_14.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "3274251202137389274",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_15.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "3228544202762282455",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_16.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "9717c7dd-fc9e-4ec7-b1e5-b6bd9fccd9a9_with_audio_hevc",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_17.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "75af5f66-e804-40be-99a0-b13f6b4d71ea",
+    "video_id": "d68b8214-c5fa-433e-81b4-c1ced825b1e7_with_audio_hevc",
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_2.json",
     "coverImgUrl": ""
   },
   {
-    "video_id": "3229078296549984042",
+    "video_id": "watermarked_7c5eb2a0-429d-47e5-bd8d-bcaf166099a8_with_audio",
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_3.json",
     "coverImgUrl": ""
   },
   {
-    "video_id": "3224206090145806934",
+    "video_id": "9717c7dd-fc9e-4ec7-b1e5-b6bd9fccd9a9_with_audio_hevc",
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_4.json",
     "coverImgUrl": ""
   },
   {
-    "video_id": "8f7ad141-ba01-4757-ae2f-a655f5f7d92c",
+    "video_id": "fb0900be-ca10-45c2-aed8-7a4b8d4f44fb_with_audio_hevc",
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_5.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "ffbea4bd-a651-4a52-88de-cc733e1c3c7a_with_audio_hevc",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_6.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "3239953601200387040",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_7.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "e015dfc5-88f8-443e-ba1b-c164e31a3e7a",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_8.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "3273412926977693488",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_9.json",
     "coverImgUrl": ""
   }
 ]
