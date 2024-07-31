@@ -1,27 +1,17 @@
 [
   {
-    "video_id": "94f976e6-e1f6-429b-bc09-a5094f572827",
+    "video_id": "5504781-hd_1920_1080_30fps-r90",
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_1.json",
     "coverImgUrl": ""
   },
   {
-    "video_id": "4183071-hd_1920_1080_30fps-r90",
+    "video_id": "9477518-hd_1920_1080_24fps-r90",
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_2.json",
     "coverImgUrl": ""
   },
   {
-    "video_id": "13882628-hd_1920_1080_30fps-r90",
+    "video_id": "15044557-hd_1920_1080_30fps-r90",
     "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_3.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "5759180-hd_1920_1080_30fps-r90",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_4.json",
-    "coverImgUrl": ""
-  },
-  {
-    "video_id": "11203150-hd_1920_1080_30fps-r90",
-    "videoDownloadUrl": "https://amazingmachine.github.io/nina/all_json/selected_pairs_5.json",
     "coverImgUrl": ""
   }
 ]
